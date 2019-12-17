@@ -1,6 +1,7 @@
 test1
 再修改一遍
 修改一行
+bug test
 add to dev
 add to master
 add to feature1
